@@ -7,13 +7,13 @@ about:
   head: e6545d5
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:33:08Z
+  collectedAt: 2026-09-04T20:58:26Z
 timeline:
   created: 2014-02-03
   lastCommit: 2023-10-22
   lastRelease: 
 popularity:
-  star: 9105
+  star: 9103
   watcher: 161
   fork: 296
   release: 0
@@ -84,6 +84,54 @@ total:
   openIssue: 36
   commit: 162
 ---
+path: /home/runner/.x-repo/github.com/dinedal/textql
+collectedAt: 2026-09-04T20:58:27Z
+loc:
+  Go:
+    code: 4860
+    comments: 560
+    blanks: 619
+    files: 24
+  Happy:
+    code: 969
+    comments: 0
+    blanks: 89
+    files: 1
+  Html:
+    code: 78
+    comments: 7
+    blanks: 19
+    files: 1
+  Makefile:
+    code: 23
+    comments: 0
+    blanks: 11
+    files: 2
+  Yaml:
+    code: 20
+    comments: 0
+    blanks: 0
+    files: 1
+  Dockerfile:
+    code: 8
+    comments: 1
+    blanks: 5
+    files: 1
+  Markdown:
+    code: 0
+    comments: 74
+    blanks: 48
+    files: 1
+  Text:
+    code: 0
+    comments: 363
+    blanks: 10
+    files: 1
+total:
+  code: 6022
+  comments: 1006
+  blanks: 802
+  files: 32
 ---
 date: "2026-08-24"
 repo:
