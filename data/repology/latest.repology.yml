@@ -139,7 +139,7 @@
   binname: textql
   visiblename: textproc/textql
   version: g20210706
-  origversion: g20210706_40
+  origversion: g20210706_41
   status: outdated
   summary: Execute SQL against structured text like CSV or TSV
   maintainers:
