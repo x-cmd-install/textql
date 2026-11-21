@@ -80,18 +80,6 @@
     - czchen@debian.org
   categories:
     - misc
-- repo: deepin_unstable
-  subrepo: main
-  srcname: textql
-  binnames:
-    - textql
-  visiblename: textql
-  version: 2.0.3
-  origversion: 2.0.3-3
-  status: newest
-  maintainers:
-    - pkg-go-maintainers@lists.alioth.debian.org
-    - czchen@debian.org
 - repo: deepin_25
   subrepo: community
   srcname: textql
@@ -134,6 +122,20 @@
     - czchen@debian.org
   categories:
     - misc
+- repo: ubuntu_20_04
+  subrepo: focal/universe
+  srcname: textql
+  binnames:
+    - textql
+  visiblename: textql
+  version: 2.0.3
+  origversion: 2.0.3-3
+  status: newest
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - czchen@debian.org
+  categories:
+    - universe/misc
 - repo: freebsd
   srcname: textproc/textql
   binname: textql
@@ -360,20 +362,6 @@
   visiblename: textql
   version: 2.0.3
   origversion: 2.0.3-2
-  status: newest
-  maintainers:
-    - pkg-go-maintainers@lists.alioth.debian.org
-    - czchen@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_20_04
-  subrepo: focal/universe
-  srcname: textql
-  binnames:
-    - textql
-  visiblename: textql
-  version: 2.0.3
-  origversion: 2.0.3-3
   status: newest
   maintainers:
     - pkg-go-maintainers@lists.alioth.debian.org
